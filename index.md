@@ -1,3 +1,3 @@
 # hello
 ### this is a descriptive commit
-![image of wood]("https://imgs.search.brave.com/IzpupIq4aUXT5smEU92OVfA5S6yj7Sm66vTYDYCp_yM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFoLVRjaVRBZEwu/anBn"
+![wood](https://duffield-timber.transforms.svdcdn.com/production/gallery/walnut/Walnut-Appearance.jpg?w=800&h=533&q=85&fm=jpg&fit=crop&dm=1654770675&s=e341bd43250b00367701a2394b60666f)
