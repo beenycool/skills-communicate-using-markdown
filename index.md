@@ -4,3 +4,8 @@
 ```
 $ git init
 print("Hello World!")
+
+```
+- [x] get github student
+- [ ] not complete
+- [ ] learn js
